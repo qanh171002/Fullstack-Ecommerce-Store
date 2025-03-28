@@ -61,16 +61,6 @@ CVC: 123
 - Quản lý sản phẩm (Thêm/Sửa/Xóa)
 - Quản lý đơn hàng
 
-## 📸 Screenshots
-
-[Thêm các hình ảnh về các trang chính của website]
-
-- Trang chủ
-- Trang sản phẩm
-- Giỏ hàng
-- Thanh toán
-- Trang admin
-
 ## 🏃‍♂️ Cách chạy locally
 
 ```bash
